@@ -1,0 +1,14 @@
+/* Replace @import "tailwindcss" with the following three directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Your existing custom CSS goes AFTER the @tailwind directives */
+/* Global Reset and Base Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ... rest of your custom CSS ... */

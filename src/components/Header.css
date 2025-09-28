@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 32px 8px;
+  width: 100%;
+  user-select: none;
+}
+
+.header.dark {
+  background-color: #000000;
+}
+
+.header.light {
+  background-color: #ffffff;
+}
+
+.video-container {
+  width: 100%;
+  max-width: 896px;
+}
+
+.header-video {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;
+}
