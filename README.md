@@ -58,7 +58,7 @@ public/
 
 📷 Demo & Source Code
 
-GitHub: Prashanth415https://interactive-movie-bookings.netlify.app/
+GitHub: https://github.com/Prashanth415/Interactive-Movie-Booking-Application 
 Project Link: https://interactive-movie-bookings.netlify.app/
 
 📌 Author
